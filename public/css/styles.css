@@ -1,5 +1,6 @@
 body {
-  background-color: #000000;
+  background-color:#f56a6a;
+  overflow-y: hidden;
 }
 
 .centered {
@@ -22,27 +23,31 @@ body {
   text-align: center;
   font-size: 2rem;
   color: #fff;
-  background-color: #000;
+  background-color: rgb(255, 249, 249);
 }
 
 .jumbotron{
-  background-color: #000000;
+  background-color: #f56a6a;
 }
 .display-3{
-  color: rgb(82, 231, 28);
+  color: #f56a6a;
 }
 .lead b{
-  color: rgb(117, 239, 73);
+  color: #f56a6a;
 }
 .mycard{
   background-color: #000000;
 }
 .kkbtn1{
-  color: rgb(117, 239, 73);
+  color: #f56a6a;
   background-color: #000000;
-  border-color: rgb(117, 239, 73);
+  border-color: #f56a6a;
+}
+.kkbtn1 :hover{
+  color: #f8b4b4;
 }
 .kkbtn2{
   color:black;
-  background-color: rgb(117, 239, 73);
+  background-color: #f56a6a;
+
 }
