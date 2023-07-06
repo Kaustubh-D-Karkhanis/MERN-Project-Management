@@ -9,6 +9,6 @@ Our functionalities include:
 5) Delete/Update Tasks/Team/Project
 
 Contributors:
-1) Shravani Gucchait (16010120138)
+1) Shravani Guchhait (16010120138)
 2) Ananya Sengupta (16010120139)
 3) Kaustubh Karkhanis (16010120158)
